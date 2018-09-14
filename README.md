@@ -11,10 +11,10 @@ or return back to the starting position in case the passage is obstructed by a d
 With this source code there is a map.txt file. This is the representation of the map in which the robot
 moves by specific characters. They are as follows:
 
-* = Walls
-. = Floors
-S = Starting Position
-E = End Position
+"*" = Walls
+"." = Floors
+"S" = Starting Position
+"E" = End Position
 
 When creating different maps, they need to utilize these specific symbols, otherwise the program
 can't recognize the map.
