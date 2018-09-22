@@ -20,10 +20,6 @@ When creating different maps, they need to utilize these specific symbols, other
 can't recognize the map.
 
 ## How to run
-
-1. Use the .sql script provided with the source code to create the scheme that will contain the "addr" table with all the necessary fields
-2. Configure the username and password fields to match the username and password of your MySQL connection (default values are "username" for username and "password" for password).
-
 ###### By .jar
 1. Download the .jar file located in the out/artifacts/robotproject_jar folder
 2. Run it through command line interface in the following format:
